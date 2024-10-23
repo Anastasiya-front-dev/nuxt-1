@@ -10,8 +10,15 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@nuxtjs/google-fonts": "^3.2.0",
+    "@nuxtjs/tailwindcss": "^6.12.2",
+    "@rollup/plugin-yaml": "^4.1.2",
     "nuxt": "^3.13.2",
     "vue": "latest",
     "vue-router": "latest"
+  },
+  "devDependencies": {
+    "@nuxt/icon": "^1.5.6",
+    "nuxt-headlessui": "^1.2.0"
   }
 }
