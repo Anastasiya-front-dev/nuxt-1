@@ -7,6 +7,7 @@ export default defineNuxtConfig({
     '@nuxtjs/tailwindcss',
     'nuxt-headlessui',
     '@nuxt/icon',
+    '@nuxt/image',
     ['@nuxtjs/google-fonts', {
       families: {
         Lato:  {
